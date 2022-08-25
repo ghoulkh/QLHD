@@ -1,0 +1,24 @@
+Êþº¾   = #   hoangkhanh/models/UserItem   java/lang/Object 
+tenTaiKhoan Ljava/lang/String;  matKhau vaiTro <init> ()V Code
+  
+ 	 
+ LineNumberTable LocalVariableTable this Lhoangkhanh/models/UserItem; 9(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V	    	     	     getTenTaiKhoan ()Ljava/lang/String; setTenTaiKhoan (Ljava/lang/String;)V 
+getMatKhau 
+setMatKhau 	getVaiTro 	setVaiTro 
+SourceFile 
+UserItem.java !                        	 
+  
+   3     *· ±       
+    
+  
+              	   
+   l     *· *+µ *,µ *-µ ±              	         *                                
+   /     *´ °                            
+   >     *+µ ±       
+                             
+   /     *´ °                             
+   >     *+µ ±       
+    %  &                        
+   /     *´ °           *                  
+   >     *+µ ±       
+    /  0                    !    "

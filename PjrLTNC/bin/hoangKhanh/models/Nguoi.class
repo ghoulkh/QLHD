@@ -1,0 +1,43 @@
+Êþº¾   = Q   hoangkhanh/models/Nguoi   java/lang/Object  maNguoi Ljava/lang/String;  hoVaTen tuoi I  namSinh 
+ngheNghiep  maHoDan <init> ()V Code
+   
+  LineNumberTable LocalVariableTable this Lhoangkhanh/models/Nguoi; M(Ljava/lang/String;Ljava/lang/String;IILjava/lang/String;Ljava/lang/String;)V	    	     	    		   
+ 		    
+ 	  "   
+getMaNguoi ()Ljava/lang/String; 
+setMaNguoi (Ljava/lang/String;)V 
+getHoVaTen 
+setHoVaTen  getTuoi ()I  setTuoi (I)V 
+getNamSinh 
+setNamSinh 
+getNgheNghiep 
+setNgheNghiep 
+getMaHoDan 
+setMaHoDan toString  5 java/lang/StringBuilder 7 Nguoi [maNguoi=
+ 4 9 
+ &
+ 4 ; < = append -(Ljava/lang/String;)Ljava/lang/StringBuilder; ? 
+, hoVaTen= A  , tuoi=
+ 4 C < D (I)Ljava/lang/StringBuilder; F 
+, namSinh= H 
+, ngheNghiep= J 
+, maHoDan= L ]
+ 4 N 3 $ 
+SourceFile 
+Nguoi.java !                   	    
+ 	    
+           
+      3     *· ±       
+      
+              
+      ¨      &*· *+µ *,µ *µ *µ *µ *µ !±       "       	          %     H     &       &      &       &  	    & 
+ 	    & 
+     &     # $     /     *´ °                         % &     >     *+µ ±       
+                          ' $     /     *´ °           "              ( &     >     *+µ ±       
+    &  '                     ) *     /     *´ ¬           *              + ,     >     *µ ±       
+    .  /                 	   - *     /     *´ ¬           2              . ,     >     *µ ±       
+    6  7                
+ 	   / $     /     *´ °           :              0 &     >     *+µ ±       
+    >  ?                
+    1 $     /     *´ !°           B              2 &     >     *+µ !±       
+    F  G                    3 $     ‡     U» 4Y6· 8*´ ¶ :>¶ :*´ ¶ :@¶ :*´ ¶ BE¶ :*´ ¶ BG¶ :*´ ¶ :I¶ :*´ !¶ :K¶ :¶ M°           K 4 L Q K        U      O    P

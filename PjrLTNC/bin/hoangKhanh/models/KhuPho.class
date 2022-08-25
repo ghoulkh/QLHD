@@ -1,0 +1,29 @@
+Êþº¾   = /   hoangkhanh/models/KhuPho   java/lang/Object maKhuPho Ljava/lang/String; 	tenKhuPho <init> ()V Code
+    	 LineNumberTable LocalVariableTable this Lhoangkhanh/models/KhuPho; '(Ljava/lang/String;Ljava/lang/String;)V	    	      
+getMaKhuPho ()Ljava/lang/String; 
+setMaKhuPho (Ljava/lang/String;)V getTenKhuPho setTenKhuPho toString   java/lang/StringBuilder   KhuPho [maKhuPho=
+  "  
+  $ % & append -(Ljava/lang/String;)Ljava/lang/StringBuilder; ( , tenKhuPho= * ]
+  ,   
+SourceFile 
+KhuPho.java !                     	  
+   3     *· 
+±    
+   
+      	                 
+   Y     *· 
+*+µ *,µ ±    
+         
+ 	                                  
+   /     *´ °    
+                        
+   >     *+µ ±    
+   
+                             
+   /     *´ °    
+                        
+   >     *+µ ±    
+   
+                              
+   O     %» Y· !*´ ¶ #'¶ #*´ ¶ #)¶ #¶ +°    
+       #        %      -    .
